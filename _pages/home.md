@@ -12,6 +12,22 @@ Welcome to my personal page. I am currently a PhD student in the [Group of Autom
 
 ### Active Projects
 
+
+<div class="compact-post">
+  <div class="compact-post-image">
+    <img src="\assets\images\test.png" alt="JXXXXXXXX">  
+  </div>
+  <div class="compact-post-details">
+    <h3 class="compact-post-title">Dynamic Obstacle Avoidance: One-shot Motion Prediction (EBM) and Control (MPC)</h3>
+    <p class="compact-authors"><b class="compact-myname"><i>Ze Zhang</i></b>, ..., et al.</p>
+    <p><i>Ongoing</i> 
+      <a href="">[Code] (Not yet)</a> 
+      <a href="">[Paper (Not yet)]</a>
+    </p>
+    <p class="compact-post-description">Not yet</p>
+  </div>
+</div>
+
 <div class="compact-post">
   <div class="compact-post-image">
     <img src="\assets\images\C20241014_cover.png" alt="C20241014">  
@@ -38,7 +54,7 @@ Welcome to my personal page. I am currently a PhD student in the [Group of Autom
       <a href="https://github.com/Woodenonez/DyObAv-MPCnWTA-Warehouse">[Code]</a> 
       <a href="https://ieeexplore.ieee.org/document/10185133">[Paper]</a>
     </p>
-    <p class="compact-post-description">Prescient Collision-Free Navigation of Mobile Robots With Iterative Multimodal Motion Prediction of Dynamic Obstacles | Autonomous Mobile Robot | Multimodal Motion Prediction</p>
+    <p class="compact-post-description">[Deprecation soon] Prescient Collision-Free Navigation of Mobile Robots With Iterative Multimodal Motion Prediction of Dynamic Obstacles | Autonomous Mobile Robot | Multimodal Motion Prediction</p>
   </div>
 </div>
 
@@ -53,7 +69,7 @@ Welcome to my personal page. I am currently a PhD student in the [Group of Autom
       <a href="https://github.com/Woodenonez/TrajTrack-MPCnDQN-RLBoost">[Code]</a> 
       <a href="https://ieeexplore.ieee.org/document/10260515">[Paper]</a>
     </p>
-    <p class="compact-post-description">Collision-Free Trajectory Planning of Mobile Robots by Integrating Deep Reinforcement Learning and Model Predictive Control | Deep Reinforcement Learning</p>
+    <p class="compact-post-description">[Deprecation soon] Collision-Free Trajectory Planning of Mobile Robots by Integrating Deep Reinforcement Learning and Model Predictive Control | Deep Reinforcement Learning</p>
   </div>
 </div>
 
@@ -62,7 +78,7 @@ Welcome to my personal page. I am currently a PhD student in the [Group of Autom
 
 <div class="compact-post">
   <div class="compact-post-image">
-    <img src="\assets\images\test.png" alt="C20220820">  
+    <img src="\assets\images\C20220820_cover.png" alt="C20220820">  
   </div>
   <div class="compact-post-details">
     <h3 class="compact-post-title">Multimodal Motion Prediction: Adaptive and Swarm WTA Loss</h3>
@@ -77,7 +93,7 @@ Welcome to my personal page. I am currently a PhD student in the [Group of Autom
 
 <div class="compact-post">
   <div class="compact-post-image">
-    <img src="\assets\images\test.png" alt="C20210823">  
+    <img src="\assets\images\C20210823_cover.png" alt="C20210823">  
   </div>
   <div class="compact-post-details">
     <h3 class="compact-post-title">Dynamic Obstacle Avoidance: MDN Predictor and MPC</h3>
