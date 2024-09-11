@@ -33,6 +33,7 @@
 
 
 ## Development
+*<div style="text-align: right"> This theme in currently installed remotely. </div>*
 
 To set up the environment to develop this theme, run `bundle install`.
 

@@ -1,0 +1,48 @@
+.compact-post {
+    display: flex;
+    align-items: flex-start; 
+    margin-bottom: 20px;
+}
+
+.compact-post-image {
+    flex-shrink: 0; /* Ensures the image container doesn't shrink */
+    width: 170px;   /* Set this to your desired width */
+    overflow: hidden;
+    margin-right: 20px; /* Horizontal spacing between the image and the text */
+}
+
+.compact-post-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.compact-post-details {
+    flex-grow: 1; /* Allow it to take up remaining space */
+    padding-left: 0; /* Ensure it starts from the very edge of its container */
+    font-size: 0.65em;
+}
+
+.compact-post-details h3,
+.compact-post-details p {
+    margin: 0; 
+    padding: 0; 
+    margin-bottom: 0px; /* Consistent space between text elements */
+}
+
+.compact-post-title {
+    color: #333333;
+}
+
+.compact-authors {
+    color: #555555;
+}
+
+.compact-myname {
+    color: #333333;
+    font-weight: 550;
+}
+
+.compact-post-description {
+    color: #666666;
+}
