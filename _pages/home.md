@@ -45,7 +45,7 @@ Welcome to my personal page. I am currently a PhD student in the [Group of Autom
 
 <div class="compact-post">
   <div class="compact-post-image">
-    <img src="\assets\images\test.png" alt="J20230717">  
+    <img src="\assets\images\J20230717_cover.png" alt="J20230717">  
   </div>
   <div class="compact-post-details">
     <h3 class="compact-post-title">Dynamic Obstacle Avoidance: Iterative Motion Prediction (SWTA) and Control (MPC)</h3>
