@@ -12,6 +12,20 @@ Welcome to my personal page. I am currently a PhD student in the [Group of Autom
 
 ### Active Projects
 
+<div class="compact-post">
+  <div class="compact-post-image">
+    <img src="\assets\images\test.png" alt="JXXXXXXXX">  
+  </div>
+  <div class="compact-post-details">
+    <h3 class="compact-post-title">Dynamic Nonconvex Obstacle Avoidance: One-shot Motion Prediction (EBM) and Control (On-Manifold CBF)</h3>
+    <p class="compact-authors"><b class="compact-myname"><i>Ze Zhang</i></b>, Yifan Xue ..., et al.</p>
+    <p><i>Ongoing (collaboration with GRASP lab, Univerisity of Pennsylvania)</i> 
+      <a href="">[Code] (Not yet)</a> 
+      <a href="">[Paper (Not yet)]</a>
+    </p>
+    <p class="compact-post-description">Not yet</p>
+  </div>
+</div>
 
 <div class="compact-post">
   <div class="compact-post-image">
@@ -20,7 +34,7 @@ Welcome to my personal page. I am currently a PhD student in the [Group of Autom
   <div class="compact-post-details">
     <h3 class="compact-post-title">Dynamic Obstacle Avoidance: One-shot Motion Prediction (EBM) and Control (MPC)</h3>
     <p class="compact-authors"><b class="compact-myname"><i>Ze Zhang</i></b>, ..., et al.</p>
-    <p><i>Ongoing</i> 
+    <p><i>Under review</i> 
       <a href="">[Code] (Not yet)</a> 
       <a href="">[Paper (Not yet)]</a>
     </p>
