@@ -22,6 +22,7 @@ Welcome to my personal page. I am currently a PhD student in the [Group of Autom
     <p><i>Ongoing (collaboration with GRASP lab, Univerisity of Pennsylvania)</i> 
       <a href="">[Code] (Not yet)</a> 
       <a href="">[Paper (Not yet)]</a>
+      <!-- <a href="https://youtu.be/j4n2mt0KdMY">[Video-Demo]</a> -->
     </p>
     <p class="compact-post-description">Not yet</p>
   </div>
@@ -52,6 +53,7 @@ Welcome to my personal page. I am currently a PhD student in the [Group of Autom
     <p><i>IROS 2024 (Abu Dhabi, UAE)</i> 
       <a href="https://github.com/kristianceder/DRL-Traj-Planner">[Code]</a> 
       <a href="">[Paper (Not yet)]</a>
+      <a href="https://youtu.be/x0JXqocSIhQ">[Video-Demo]</a>
     </p>
     <p class="compact-post-description">Bird’s-Eye-View Trajectory Planning of Multiple Robots using Continuous Deep Reinforcement Learning and Model Predictive Control | Deep Reinforcement Learning | Multi-Agent Coordination</p>
   </div>
@@ -67,6 +69,7 @@ Welcome to my personal page. I am currently a PhD student in the [Group of Autom
     <p><i>RAL 2023 - Yokohama, JPN (ICRA 2024)</i> 
       <a href="https://github.com/Woodenonez/DyObAv-MPCnWTA-Warehouse">[Code]</a> 
       <a href="https://ieeexplore.ieee.org/document/10185133">[Paper]</a>
+      <a href="https://youtu.be/XM6Ya11B81Q">[Video-Demo]</a>
     </p>
     <p class="compact-post-description">[Deprecation soon] Prescient Collision-Free Navigation of Mobile Robots With Iterative Multimodal Motion Prediction of Dynamic Obstacles | Autonomous Mobile Robot | Multimodal Motion Prediction</p>
   </div>
@@ -115,6 +118,7 @@ Welcome to my personal page. I am currently a PhD student in the [Group of Autom
     <p><i>CASE 2021 (Virtual/Lyon, FR)</i> 
       <a href="https://github.com/Woodenonez/M3P-MDN-CASE2021">[Code]</a> 
       <a href="https://ieeexplore.ieee.org/document/9551463">[Paper]</a>
+      <a href="https://youtu.be/vZI3-TnQZ1c">[Video-Demo]</a>
     </p>
     <p class="compact-post-description">Motion Prediction Based on Multiple Futures for Dynamic Obstacle Avoidance of Mobile Robots | Mixture Density Network</p>
   </div>
