@@ -37,7 +37,7 @@
 
 To set up the environment to develop this theme, run `bundle install`.
 
-To preview the theme, run `bundle exec jeckyll serve` and open your browser at `http://localhost:4000`. 
+To preview the theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. 
 
 To test the theme, run `bundle exec rake preview` and open your browser at `http://localhost:4000/test/`. This starts a Jekyll server using content in the `test/` directory. As modifications are made to the theme and test site, it will regenerate and you should see the changes in the browser after a refresh. For more info, chech the [Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
 
