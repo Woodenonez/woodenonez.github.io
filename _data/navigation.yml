@@ -1,9 +1,13 @@
 # main links
 main:
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Publications"
+    url: /publications/
   - title: "Show Me The Code"
     url: https://github.com/Woodenonez
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
