@@ -32,6 +32,21 @@ The latest official update of the application related to my research project: [V
 
 <div class="compact-post">
   <div class="compact-post-image">
+    <img src="\assets\images\C2025XXXX.png" alt="CXXXXXXXX">  
+  </div>
+  <div class="compact-post-details">
+    <h3 class="compact-post-title">Complex Obstacle Avoidance and Fleet Collision Avoidance: Sampling-based Trajectory Planning (DWA) Inspried by Gradient Field (GPDF)</h3>
+    <p class="compact-authors"><b class="compact-myname"><i>Ze Zhang</i></b>, Yifan Xue, et al.</p>
+    <p><i>Under review</i> 
+      <a href="">[Code (Not yet)]</a> 
+      <a href="">[Paper (Not yet)]</a>
+    </p>
+    <p class="compact-post-description">Gradient Field-Based Dynamic Window Approach for Collision Avoidance in Complex Environments | Non-convex obstacle avoidance | Multi-robot collision avoidance</p>
+  </div>
+</div>
+
+<div class="compact-post">
+  <div class="compact-post-image">
     <img src="\assets\images\test.png" alt="JXXXXXXXX">  
   </div>
   <div class="compact-post-details">
