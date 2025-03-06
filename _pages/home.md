@@ -32,7 +32,7 @@ The latest official update of the application related to my research project: [V
 
 <div class="compact-post">
   <div class="compact-post-image">
-    <img src="\assets\images\C2025XXXX.png" alt="CXXXXXXXX">  
+    <img src="\assets\images\C2025XXXX_cover.png" alt="CXXXXXXXX">  
   </div>
   <div class="compact-post-details">
     <h3 class="compact-post-title">Complex Obstacle Avoidance and Fleet Collision Avoidance: Sampling-based Trajectory Planning (DWA) Inspried by Gradient Field (GPDF)</h3>
@@ -40,6 +40,7 @@ The latest official update of the application related to my research project: [V
     <p><i>Under review</i> 
       <a href="">[Code (Not yet)]</a> 
       <a href="">[Paper (Not yet)]</a>
+      <a href="https://youtu.be/Et4C5oGHlF0">[Video-Demo]</a>
     </p>
     <p class="compact-post-description">Gradient Field-Based Dynamic Window Approach for Collision Avoidance in Complex Environments | Non-convex obstacle avoidance | Multi-robot collision avoidance</p>
   </div>
