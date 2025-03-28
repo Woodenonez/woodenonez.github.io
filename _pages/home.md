@@ -16,7 +16,7 @@ The latest official update of the application related to my research project: [V
 
 <div class="compact-post">
   <div class="compact-post-image">
-    <img src="\assets\images\test.png" alt="JXXXXXXXX">  
+    <img src="\assets\images\C2025XXX1_cover.png" alt="CXXXXXXXX">  
   </div>
   <div class="compact-post-details">
     <h3 class="compact-post-title">Dynamic Nonconvex Obstacle Avoidance: One-shot Motion Prediction (EBM) and Control (On-Manifold CBF)</h3>
@@ -24,7 +24,7 @@ The latest official update of the application related to my research project: [V
     <p><i>Ongoing (collaboration with GRASP lab, Univerisity of Pennsylvania)</i> 
       <a href="">[Code (Not yet)]</a> 
       <a href="">[Paper (Not yet)]</a>
-      <!-- <a href="https://youtu.be/j4n2mt0KdMY">[Video-Demo]</a> -->
+      <a href="\assets\images\temp_video1.mp4">[Video-Demo]</a>
     </p>
     <p class="compact-post-description">Not yet</p>
   </div>
@@ -48,7 +48,7 @@ The latest official update of the application related to my research project: [V
 
 <div class="compact-post">
   <div class="compact-post-image">
-    <img src="\assets\images\test.png" alt="JXXXXXXXX">  
+    <img src="\assets\images\J2025XXX1_cover.png" alt="JXXXXXXXX">  
   </div>
   <div class="compact-post-details">
     <h3 class="compact-post-title">Dynamic Obstacle Avoidance: One-shot Motion Prediction (EBM) and Control (MPC)</h3>
