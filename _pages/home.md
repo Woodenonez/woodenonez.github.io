@@ -12,6 +12,8 @@ Welcome to my personal page. I am currently a PhD student in the [Group of Autom
 
 The latest official update of the application related to my research project: [Volvo Group](https://www.youtube.com/watch?v=DA7lKiCdkCc&t=132s&ab_channel=VolvoGroup)
 
+I will defend my thesis on **May 15, 2025**. The title of my thesis is [**"Future-Oriented Navigation for Autonomous Mobile Robots"**](https://www.chalmers.se/en/current/calendar/Ze-Zhang-545958/).
+
 ### Active Projects
 
 <div class="compact-post">
@@ -20,8 +22,8 @@ The latest official update of the application related to my research project: [V
   </div>
   <div class="compact-post-details">
     <h3 class="compact-post-title">Dynamic Nonconvex Obstacle Avoidance: One-shot Motion Prediction (EBM) and Control (On-Manifold CBF)</h3>
-    <p class="compact-authors"><b class="compact-myname"><i>Ze Zhang</i></b>, Yifan Xue ..., et al.</p>
-    <p><i>Ongoing (collaboration with GRASP lab, Univerisity of Pennsylvania)</i> 
+    <p class="compact-authors">Yifan Xue*, <b class="compact-myname"><i>Ze Zhang*</i></b>, et al. (*equal contribution)</p>
+    <p><i>Under review (collaboration with GRASP lab, Univerisity of Pennsylvania)</i> 
       <a href="">[Code (Not yet)]</a> 
       <a href="">[Paper (Not yet)]</a>
       <a href="\assets\images\temp_video1.mp4">[Video-Demo]</a>
@@ -37,7 +39,7 @@ The latest official update of the application related to my research project: [V
   <div class="compact-post-details">
     <h3 class="compact-post-title">Complex Obstacle Avoidance and Fleet Collision Avoidance: Sampling-based Trajectory Planning (DWA) Inspried by Gradient Field (GPDF)</h3>
     <p class="compact-authors"><b class="compact-myname"><i>Ze Zhang</i></b>, Yifan Xue, et al.</p>
-    <p><i>Under review</i> 
+    <p><i>Under review, submitted to IROS 2025</i> 
       <a href="">[Code (Not yet)]</a> 
       <a href="">[Paper (Not yet)]</a>
       <a href="https://youtu.be/Et4C5oGHlF0">[Video-Demo]</a>
@@ -53,13 +55,12 @@ The latest official update of the application related to my research project: [V
   <div class="compact-post-details">
     <h3 class="compact-post-title">Dynamic Obstacle Avoidance: One-shot Motion Prediction (EBM) and Control (MPC)</h3>
     <p class="compact-authors"><b class="compact-myname"><i>Ze Zhang</i></b>, ..., et al.</p>
-    <p><i>Under review</i> 
+    <p><i>Under review, submitted to IEEE RA-L</i> 
       <a href="">[Code (Not yet)]</a> 
-      <a href="">[Code-ROS (Not yet)]</a> 
       <a href="">[Paper (Not yet)]</a>
       <a href="https://youtu.be/j4n2mt0KdMY">[Video-Demo]</a>
     </p>
-    <p class="compact-post-description">Not yet</p>
+    <p class="compact-post-description">Future-Oriented Navigation: Dynamic Obstacle Avoidance with One-Shot Energy-Based Multimodal Motion Prediction | Autonomous Mobile Robot | Energy-Based Multimodal Motion Prediction</p>
   </div>
 </div>
 
@@ -69,7 +70,7 @@ The latest official update of the application related to my research project: [V
   </div>
   <div class="compact-post-details">
     <h3 class="compact-post-title">Efficient Obstacle Avoidance and Multi-Agent Coordination: DDPG-Boosted MPC for Collision-Free Navigation</h3>
-    <p class="compact-authors">Kristian Ceder, <b class="compact-myname"><i>Ze Zhang</i></b> (equal contribution), et al.</p>
+    <p class="compact-authors">Kristian Ceder*, <b class="compact-myname"><i>Ze Zhang*</i></b>, et al. (*equal contribution)</p>
     <p><i><a href="https://ieeexplore.ieee.org/document/10801434">IROS 2024</a> (Abu Dhabi, UAE)</i> 
       <a href="https://github.com/kristianceder/DRL-Traj-Planner">[Code]</a>  
       <a href="\assets\papers\IROS2024_Co_DDPG_MPC_MultiAgent.pdf">[Paper]</a>
