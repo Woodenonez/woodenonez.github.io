@@ -8,11 +8,11 @@ title: " "
 
 ## Greetings!
 
-Welcome to my personal page. I am currently a PhD student in the [Group of Automation](https://www.chalmers.se/en/departments/e2/research/systems-and-control/automation/) at the [Chalmers University of Technology](https://www.chalmers.se/en/), supervised by Prof. Knut Åkesson. My research interests are in the area of mobile robotics and deep learning, particularly in the development of integrated algorithms for predictive dynamic obstacle avoidance based on multimodal motion prediction. If you are interested in my work, please feel free to contact me or raise an issue on the corresponding GitHub repository.
+Welcome to my personal page. I just finished my PhD in the [Group of Automation](https://www.chalmers.se/en/departments/e2/research/systems-and-control/automation/) at the [Chalmers University of Technology](https://www.chalmers.se/en/), supervised by Prof. Knut Åkesson. My research interests are in the area of mobile robotics and deep learning, particularly in the development of integrated algorithms for predictive dynamic obstacle avoidance based on multimodal motion prediction. If you are interested in my work, please feel free to contact me or raise an issue on the corresponding GitHub repository.
 
 The latest official update of the application related to my research project: [Volvo Group](https://www.youtube.com/watch?v=DA7lKiCdkCc&t=132s&ab_channel=VolvoGroup)
 
-I will defend my thesis on **May 15, 2025**. The title of my thesis is [**"Future-Oriented Navigation for Autonomous Mobile Robots"**](https://www.chalmers.se/en/current/calendar/Ze-Zhang-545958/).
+I sucessfully defended my thesis on **May 15, 2025**. The title of my thesis is [**"Future-Oriented Navigation for Autonomous Mobile Robots"**](https://www.chalmers.se/en/current/calendar/Ze-Zhang-545958/).
 
 ### Active Projects
 

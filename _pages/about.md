@@ -6,7 +6,7 @@ author_profile: false
 title: "About Me"
 ---
 
-I am currently working on finishing my PhD in the Automation group at Chalmers University of Technology. At the same time, I am open to new opportunities in the field of robotics, automation, and machine learning. 🌟
+~~I am currently working on finishing my PhD in the Automation group at Chalmers University of Technology~~. At the same time, I am open to new opportunities in the field of robotics, automation, and machine learning. 🌟
 
 💬 For questions regarding my papers or related code, please *find the contact information in the footer of the paper* or *raise an issue on the corresponding GitHub repository*. <br>
 💬 For any other inquiries or collaborations, please feel free to contact me through my [LinkedIn](https://www.linkedin.com/in/zhze17819/).
@@ -20,7 +20,7 @@ I am currently working on finishing my PhD in the Automation group at Chalmers U
   ★ Processed lab data for Li-ion batteries and built battery state models based on deep machine learning methods.
 
 ## Education
-- [01/2020-Ongoing] **Chalmers University of Technology** <small>(GBG, SE)</small> <br> 
+- [01/2020-05/2025] **Chalmers University of Technology** <small>(GBG, SE)</small> <br> 
   Ph.D. in Automation Group | Electrical Engineering
 - [09/2017-10/2019] **Chalmers University of Technology** <small>(GBG, SE)</small> <br> 
   M.Sc. in Systems, Control, and Mechatronics | Electrical Engineering
