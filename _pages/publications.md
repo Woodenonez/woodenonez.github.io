@@ -25,6 +25,20 @@ title: "Publications"
 <p align="right"><small>(in chronological order)</small></p>
 
 
+- *Gradient Field-Based Dynamic Window Approach for Collision Avoidance in Complex Environments*, **Z. Zhang**, Y. Xue, N. Figueroa, K. Åkesson, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. X-X, 2025.
+<br>
+<span style="font-size: 16px;">
+[Paper (PDF) Not Yet](\assets\papers\),
+[Paper (IEEE) Not Yet](https://ieeexplore.ieee.org/document/)
+</span>
+
+- *Future-Oriented Navigation: Dynamic Obstacle Avoidance with One-Shot Energy-Based Multimodal Motion Prediction*, **Z. Zhang**, G. Hess, J. Hu, E. Dean, L. Svensson, K. Åkesson, IEEE Robotics and Automation Letters (RA-L), vol. X, no. X, pp. X-X, XXX 2025. <br>
+<span style="font-size: 16px;">
+[Paper (PDF)](\assets\papers\RAL2025_Ze_EBM_MPC_ROS.pdf),
+[Paper (IEEE) Not Yet](https://ieeexplore.ieee.org/document/)
+</span>
+
+---
 
 - *Bird’s-Eye-View Trajectory Planning of Multiple Robots using Continuous Deep Reinforcement Learning and Model Predictive Control*, K. Ceder\*, **Z. Zhang**\*, A. Burman, I. Kuangaliyev, K. Mattsson, G. Nyman, A. Petersén, L. Wisell, and K. Åkesson, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 8002-8008, 2024. <br>
 <span style="color:rgb(47, 78, 99); font-size: 14px;">(\*Equal contribution)</span>
@@ -54,7 +68,7 @@ title: "Publications"
 [Paper (IEEE)](https://ieeexplore.ieee.org/document/9926544)
 </span>
 
-- *Centralized versus distributed nonlinear model predictive control for online robot fleet trajectory planning*, F. Bertilsson, M. Gordon, J. Hansson, D. Möller, D. Söderberg, Z. Zhang, and K. Åkesson, IEEE International Conference on Automation Science and Engineering (CASE), pp. 701-706, 2022. <br>
+- *Centralized versus distributed nonlinear model predictive control for online robot fleet trajectory planning*, F. Bertilsson, M. Gordon, J. Hansson, D. Möller, D. Söderberg, **Z. Zhang**, and K. Åkesson, IEEE International Conference on Automation Science and Engineering (CASE), pp. 701-706, 2022. <br>
 <span style="color:rgb(47, 78, 99); font-size: 14px;">(Design project with master students)</span>
 <br>
 <span style="font-size: 16px;">

@@ -12,7 +12,7 @@ Welcome to my personal page. I just finished my PhD in the [Group of Automation]
 
 The latest official update of the application related to my research project: [Volvo Group](https://www.youtube.com/watch?v=DA7lKiCdkCc&t=132s&ab_channel=VolvoGroup)
 
-I sucessfully defended my thesis on **May 15, 2025**. The title of my thesis is [**"Future-Oriented Navigation for Autonomous Mobile Robots"**](https://www.chalmers.se/en/current/calendar/Ze-Zhang-545958/).
+I sucessfully defended my thesis on **May 15, 2025**. The title of my thesis is [**"Future-Oriented Navigation for Autonomous Mobile Robots"**](https://research.chalmers.se/en/publication/545958).
 
 ### Active Projects
 
@@ -39,7 +39,7 @@ I sucessfully defended my thesis on **May 15, 2025**. The title of my thesis is 
   <div class="compact-post-details">
     <h3 class="compact-post-title">Complex Obstacle Avoidance and Fleet Collision Avoidance: Sampling-based Trajectory Planning (DWA) Inspried by Gradient Field (GPDF)</h3>
     <p class="compact-authors"><b class="compact-myname"><i>Ze Zhang</i></b>, Yifan Xue, et al.</p>
-    <p><i>Under review, submitted to IROS 2025</i> 
+    <p><i>IROS 2025 - Hangzhou, CN</i> 
       <a href="">[Code (Not yet)]</a> 
       <a href="">[Paper (Not yet)]</a>
       <a href="https://youtu.be/Et4C5oGHlF0">[Video-Demo]</a>
@@ -50,14 +50,15 @@ I sucessfully defended my thesis on **May 15, 2025**. The title of my thesis is 
 
 <div class="compact-post">
   <div class="compact-post-image">
-    <img src="\assets\images\J2025XXX1_cover.png" alt="JXXXXXXXX">  
+    <img src="\assets\images\J20250521_cover.png" alt="J20250521">  
   </div>
   <div class="compact-post-details">
     <h3 class="compact-post-title">Dynamic Obstacle Avoidance: One-shot Motion Prediction (EBM) and Control (MPC)</h3>
     <p class="compact-authors"><b class="compact-myname"><i>Ze Zhang</i></b>, ..., et al.</p>
-    <p><i>Under review, submitted to IEEE RA-L</i> 
-      <a href="">[Code (Not yet)]</a> 
-      <a href="">[Paper (Not yet)]</a>
+    <p><i>RAL 2025</i> 
+      <a href="https://github.com/Woodenonez/DyObAv-MPCnEBM-Warehouse">[Code]</a> 
+      <a href="https://github.com/Woodenonez/DyObAv-MPCnEBM-Warehouse-ROS2">[ROS 2]</a> 
+      <a href="\assets\papers\RAL2025_Ze_EBM_MPC_ROS.pdf">[Paper]</a>
       <a href="https://youtu.be/j4n2mt0KdMY">[Video-Demo]</a>
     </p>
     <p class="compact-post-description">Future-Oriented Navigation: Dynamic Obstacle Avoidance with One-Shot Energy-Based Multimodal Motion Prediction | Autonomous Mobile Robot | Energy-Based Multimodal Motion Prediction</p>
