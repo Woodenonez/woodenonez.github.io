@@ -35,7 +35,7 @@ title: "Publications"
 - *Future-Oriented Navigation: Dynamic Obstacle Avoidance with One-Shot Energy-Based Multimodal Motion Prediction*, **Z. Zhang**, G. Hess, J. Hu, E. Dean, L. Svensson, K. Åkesson, IEEE Robotics and Automation Letters (RA-L), vol. X, no. X, pp. X-X, XXX 2025. <br>
 <span style="font-size: 16px;">
 [Paper (PDF)](\assets\papers\RAL2025_Ze_EBM_MPC_ROS.pdf),
-[Paper (IEEE) Not Yet](https://ieeexplore.ieee.org/document/)
+[Paper (IEEE)](https://ieeexplore.ieee.org/document/11021381)
 </span>
 
 ---
