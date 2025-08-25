@@ -28,7 +28,7 @@ title: "Publications"
 - *Gradient Field-Based Dynamic Window Approach for Collision Avoidance in Complex Environments*, **Z. Zhang**, Y. Xue, N. Figueroa, K. Åkesson, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. X-X, 2025.
 <br>
 <span style="font-size: 16px;">
-[Paper (PDF) Not Yet](\assets\papers\),
+[Paper (arXiv)](https://arxiv.org/abs/2504.03260),
 [Paper (IEEE) Not Yet](https://ieeexplore.ieee.org/document/)
 </span>
 

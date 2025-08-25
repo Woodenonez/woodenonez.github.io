@@ -10,11 +10,11 @@ title: " "
 
 Welcome to my personal page. I just finished my PhD in the [Group of Automation](https://www.chalmers.se/en/departments/e2/research/systems-and-control/automation/) at the [Chalmers University of Technology](https://www.chalmers.se/en/), supervised by Prof. Knut Åkesson. My research interests are in the area of mobile robotics and deep learning, particularly in the development of integrated algorithms for predictive dynamic obstacle avoidance based on multimodal motion prediction. If you are interested in my work, please feel free to contact me or raise an issue on the corresponding GitHub repository.
 
-The latest official update of the application related to my research project: [Volvo Group](https://www.youtube.com/watch?v=DA7lKiCdkCc&t=132s&ab_channel=VolvoGroup)
+<!-- The latest official update of the application related to my research project: [Volvo Group](https://www.youtube.com/watch?v=DA7lKiCdkCc&t=132s&ab_channel=VolvoGroup) -->
 
 I sucessfully defended my thesis on **May 15, 2025**. The title of my thesis is [**"Future-Oriented Navigation for Autonomous Mobile Robots"**](https://research.chalmers.se/en/publication/545958).
 
-### Active Projects
+### Active Work
 
 <div class="compact-post">
   <div class="compact-post-image">
@@ -55,7 +55,7 @@ I sucessfully defended my thesis on **May 15, 2025**. The title of my thesis is 
   <div class="compact-post-details">
     <h3 class="compact-post-title">Dynamic Obstacle Avoidance: One-shot Motion Prediction (EBM) and Control (MPC)</h3>
     <p class="compact-authors"><b class="compact-myname"><i>Ze Zhang</i></b>, ..., et al.</p>
-    <p><i>RAL 2025</i> 
+    <p><i><a href="https://ieeexplore.ieee.org/document/11021381">RA-L 2025</a></i>
       <a href="https://github.com/Woodenonez/DyObAv-MPCnEBM-Warehouse">[Code]</a> 
       <a href="https://github.com/Woodenonez/DyObAv-MPCnEBM-Warehouse-ROS2">[ROS 2]</a> 
       <a href="\assets\papers\RAL2025_Ze_EBM_MPC_ROS.pdf">[Paper]</a>
@@ -81,6 +81,9 @@ I sucessfully defended my thesis on **May 15, 2025**. The title of my thesis is 
   </div>
 </div>
 
+
+### Previous Work
+
 <div class="compact-post">
   <div class="compact-post-image">
     <img src="\assets\images\J20230717_cover.png" alt="J20230717">  
@@ -88,7 +91,7 @@ I sucessfully defended my thesis on **May 15, 2025**. The title of my thesis is 
   <div class="compact-post-details">
     <h3 class="compact-post-title">Dynamic Obstacle Avoidance: Iterative Motion Prediction (SWTA) and Control (MPC)</h3>
     <p class="compact-authors"><b class="compact-myname"><i>Ze Zhang</i></b>, Hadi Hajieghrary, et al.</p>
-    <p><i><a href="https://ieeexplore.ieee.org/document/10185133"> RAL 2023</a> - Yokohama, JPN (ICRA 2024)</i> 
+    <p><i><a href="https://ieeexplore.ieee.org/document/10185133"> RA-L 2023</a> - Yokohama, JPN (ICRA 2024)</i> 
       <a href="https://github.com/Woodenonez/DyObAv-MPCnWTA-Warehouse">[Code]</a> 
       <a href="\assets\papers\RAL2023_Ze_MPC_WTA.pdf">[Paper]</a>
       <!-- <a href="https://ieeexplore.ieee.org/document/10185133">[Paper]</a> -->
@@ -97,9 +100,6 @@ I sucessfully defended my thesis on **May 15, 2025**. The title of my thesis is 
     <p class="compact-post-description">[Deprecation soon] Prescient Collision-Free Navigation of Mobile Robots With Iterative Multimodal Motion Prediction of Dynamic Obstacles | Autonomous Mobile Robot | Multimodal Motion Prediction</p>
   </div>
 </div>
-
-
-### Previous Projects
 
 <div class="compact-post">
   <div class="compact-post-image">

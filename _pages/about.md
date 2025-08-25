@@ -6,12 +6,16 @@ author_profile: false
 title: "About Me"
 ---
 
-~~I am currently working on finishing my PhD in the Automation group at Chalmers University of Technology~~. At the same time, I am open to new opportunities in the field of robotics, automation, and machine learning. 🌟
+I am currently working on cloud robotics and learning-based motion planning. At the same time, I am open to new opportunities in the field of robotics, automation, and machine learning. 🌟
 
 💬 For questions regarding my papers or related code, please *find the contact information in the footer of the paper* or *raise an issue on the corresponding GitHub repository*. <br>
 💬 For any other inquiries or collaborations, please feel free to contact me through my [LinkedIn](https://www.linkedin.com/in/zhze17819/).
 
 ## Professional Experience
+
+- [07/2025-Ongoing] **Chalmers University of Technology** <small>(GBG, SE)</small> <br> 
+  Postdoc researcher in Computer and Network Systems Group | Computer Science and Engineering <br> 
+  ★ Cloud robotics.
 - [09/2024-11/2024] **University of Pennsylvania** <small>(PA, USA)</small> <br> 
   Short-term Scholar (GRASP Lab) <br> 
   ★ Initiated a collaboration project on proactive mobile robot navigation in complex and dynamic environments, including the design and implementation of experiments utilizing a Fetch robot.
