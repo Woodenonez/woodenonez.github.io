@@ -30,3 +30,6 @@ I am currently working on cloud robotics and learning-based motion planning. At 
   M.Sc. in Systems, Control, and Mechatronics | Electrical Engineering
 - [09/2013-07/2017] **University of Electronic Science and Technology of China** <small>(Chengdu, CN)</small> <br> 
   B.Sc. in Automation | Automation Engineering
+
+## Additional Experience
+- [09/2025-10/2025] Associate Editor for 2026 IEEE/SICE International Symposium on System Integration (SII)
