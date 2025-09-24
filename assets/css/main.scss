@@ -8,3 +8,17 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 @import "compact_img_intro"; // custom partials
+
+
+// For the project page,, Accent bar + spacing + larger type
+.page .project-title {
+  margin-top: 3rem;
+  padding: .6rem 1rem;
+  border-left: .35rem solid var(--brand-color, #acacac);
+  background: rgba(42,122,226,0.06);
+  font-size: clamp(1.4rem, 2.2vw, 1.75rem);
+  line-height: 1.3;
+}
+
+// add a bit of air between projects
+.page .project-title + p { margin-top: .6rem; }

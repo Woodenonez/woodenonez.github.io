@@ -24,7 +24,15 @@ title: "Publications"
 
 <p align="right"><small>(in chronological order)</small></p>
 
+(Pinned)
+- *Future-Oriented Navigation for Autonomous Mobile Robots*, **Z. Zhang**, Ph.D. Thesis, May 2025. <br>
+<span style="font-size: 16px;">
+[Full Text](https://research.chalmers.se/en/publication/545958)
+</span>
 
+---
+
+(Others)
 - *Gradient Field-Based Dynamic Window Approach for Collision Avoidance in Complex Environments*, **Z. Zhang**, Y. Xue, N. Figueroa, K. Åkesson, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. X-X, 2025.
 <br>
 <span style="font-size: 16px;">

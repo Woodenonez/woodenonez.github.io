@@ -8,11 +8,11 @@ title: " "
 
 ## Greetings!
 
-Welcome to my personal page. I just finished my PhD in the [Group of Automation](https://www.chalmers.se/en/departments/e2/research/systems-and-control/automation/) at the [Chalmers University of Technology](https://www.chalmers.se/en/), supervised by Prof. Knut Åkesson. My research interests are in the area of mobile robotics and deep learning, particularly in the development of integrated algorithms for predictive dynamic obstacle avoidance based on multimodal motion prediction. If you are interested in my work, please feel free to contact me or raise an issue on the corresponding GitHub repository.
+Welcome to my personal page. I finished my PhD in the [Group of Automation](https://www.chalmers.se/en/departments/e2/research/systems-and-control/automation/) at the [Chalmers University of Technology](https://www.chalmers.se/en/), supervised by Prof. Knut Åkesson. I'm currently working on cloud robotics with Prof. Ahmed Ali-Eldin Hassan. My research interests are in the area of robotics and machine learning, particularly in the development of integrated algorithms for predictive dynamic obstacle avoidance based on multimodal motion prediction. If you are interested in my work, feel free to contact me or raise an issue on the corresponding GitHub repository.
 
 <!-- The latest official update of the application related to my research project: [Volvo Group](https://www.youtube.com/watch?v=DA7lKiCdkCc&t=132s&ab_channel=VolvoGroup) -->
 
-I sucessfully defended my thesis on **May 15, 2025**. The title of my thesis is [**"Future-Oriented Navigation for Autonomous Mobile Robots"**](https://research.chalmers.se/en/publication/545958).
+I sucessfully defended my thesis, [**"Future-Oriented Navigation for Autonomous Mobile Robots"**](https://research.chalmers.se/en/publication/545958), on **May 15, 2025**.
 
 ### Active Work
 
@@ -40,8 +40,8 @@ I sucessfully defended my thesis on **May 15, 2025**. The title of my thesis is 
     <h3 class="compact-post-title">Complex Obstacle Avoidance and Fleet Collision Avoidance: Sampling-based Trajectory Planning (DWA) Inspried by Gradient Field (GPDF)</h3>
     <p class="compact-authors"><b class="compact-myname"><i>Ze Zhang</i></b>, Yifan Xue, et al.</p>
     <p><i>IROS 2025 - Hangzhou, CN</i> 
-      <a href="">[Code (Not yet)]</a> 
-      <a href="">[Paper (Not yet)]</a>
+      <a href="https://github.com/Woodenonez/CollisionAvoidance-GPDF-DWA/">[Code]</a> 
+      <a href="https://arxiv.org/abs/2504.03260">[Paper (arXiv)]</a>
       <a href="https://youtu.be/Et4C5oGHlF0">[Video-Demo]</a>
     </p>
     <p class="compact-post-description">Gradient Field-Based Dynamic Window Approach for Collision Avoidance in Complex Environments | Non-convex obstacle avoidance | Multi-robot collision avoidance</p>
