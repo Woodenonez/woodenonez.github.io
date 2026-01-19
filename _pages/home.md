@@ -8,7 +8,7 @@ title: " "
 
 ## Greetings!
 
-Welcome to my personal page. I finished my PhD in the [Group of Automation](https://www.chalmers.se/en/departments/e2/research/systems-and-control/automation/) at the [Chalmers University of Technology](https://www.chalmers.se/en/), supervised by Prof. Knut Åkesson. I'm currently working on cloud robotics with Prof. Ahmed Ali-Eldin Hassan. My research interests are in the area of robotics and machine learning, particularly in the development of integrated algorithms for predictive dynamic obstacle avoidance based on multimodal motion prediction. If you are interested in my work, feel free to contact me or raise an issue on the corresponding GitHub repository.
+Welcome to my personal page. I finished my PhD at the [Chalmers University of Technology](https://www.chalmers.se/en/), and I'm currently working on cloud robotics with Prof. Ahmed Ali-Eldin Hassan. My research interests are in the area of robotics and machine learning, particularly in the development of integrated algorithms for predictive dynamic obstacle avoidance based on multimodal motion prediction. If you are interested in my work, feel free to contact me or raise an issue on the corresponding GitHub repository.
 
 <!-- The latest official update of the application related to my research project: [Volvo Group](https://www.youtube.com/watch?v=DA7lKiCdkCc&t=132s&ab_channel=VolvoGroup) -->
 
@@ -34,7 +34,7 @@ I sucessfully defended my thesis, [**"Future-Oriented Navigation for Autonomous 
 
 <div class="compact-post">
   <div class="compact-post-image">
-    <img src="\assets\images\C2025XXXX_cover.png" alt="CXXXXXXXX">  
+    <img src="\assets\images\C20251127_cover.png" alt="C20251127">  
   </div>
   <div class="compact-post-details">
     <h3 class="compact-post-title">Complex Obstacle Avoidance and Fleet Collision Avoidance: Sampling-based Trajectory Planning (DWA) Inspried by Gradient Field (GPDF)</h3>

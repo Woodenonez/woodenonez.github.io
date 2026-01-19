@@ -44,7 +44,8 @@ title: "Publications"
 <br>
 <span style="font-size: 16px;">
 [Paper (arXiv)](https://arxiv.org/abs/2511.13188),
-[Paper (IEEE) Not Yet](https://ieeexplore.ieee.org/document/)
+[Paper (IEEE) Not Yet](https://ieeexplore.ieee.org/document/),
+[Presentation Video](https://youtu.be/dkbtmQYqKiY)
 </span>
 
 - *Combining High Level Scheduling and Low Level Control to Manage Fleets of Mobile Robots*, S. F. Roselli, **Z. Zhang**, and K. Åkesson, IEEE SICE International Symposium on System Integration (SII), pp. X-X, 2025. <br>
@@ -55,11 +56,11 @@ title: "Publications"
 [Paper (IEEE) Not Yet](https://ieeexplore.ieee.org/document/)
 </span>
 
-- *Gradient Field-Based Dynamic Window Approach for Collision Avoidance in Complex Environments*, **Z. Zhang**, Y. Xue, N. Figueroa, K. Åkesson, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. X-X, 2025.
+- *Gradient Field-Based Dynamic Window Approach for Collision Avoidance in Complex Environments*, **Z. Zhang**, Y. Xue, N. Figueroa, K. Åkesson, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 19669-19674, 2025.
 <br>
 <span style="font-size: 16px;">
 [Paper (arXiv)](https://arxiv.org/abs/2504.03260),
-[Paper (IEEE) Not Yet](https://ieeexplore.ieee.org/document/)
+[Paper (IEEE)](https://ieeexplore.ieee.org/document/11246091)
 </span>
 
 - *Future-Oriented Navigation: Dynamic Obstacle Avoidance with One-Shot Energy-Based Multimodal Motion Prediction*, **Z. Zhang**, G. Hess, J. Hu, E. Dean, L. Svensson, K. Åkesson, IEEE Robotics and Automation Letters (RA-L), vol. 10, no. 8, pp. 8043 - 8050, June 2025. <br>
