@@ -20,6 +20,7 @@ I'm leading this new project on cloud robotics, which aims to develop both cloud
 - Developing efficient model compression and adaptation techniques to deploy large VLA models on edge devices with limited resources.
 - Implementing real-time data processing and decision-making pipelines that leverage cloud computing power while minimizing latency.
 - Using reinforcement learning techniques to validate safety and robustness of VLA models in dynamic environments.
+
 We have built a prototype system that integrates cloud services with edge devices, which can run large VLA models, such as OpenVLA, on the cloud while performing inference and control on local devices. The prototype is expected to be released around **early summer 2026** (March-June).
 
 ### Information
