@@ -13,7 +13,21 @@ toc_sticky: true
 ## RAIN
 {: .project-title }
 
-Cloud Robotics - Ongoing
+Cloud Robotics - VLA (ongoing)
+### Introduction
+I'm leading this new project on cloud robotics, which aims to develop both cloud-based and edge-based solutions for deploying and managing Vision-Language-Action (VLA) models. Currectly, as a team of a postdoc researcher (me), several PhD students, and master students, we are working on the following tasks:
+- Designing a cloud-edge architecture / pipeline for VLA models in robotics applications.
+- Developing efficient model compression and adaptation techniques to deploy large VLA models on edge devices with limited resources.
+- Implementing real-time data processing and decision-making pipelines that leverage cloud computing power while minimizing latency.
+- Using reinforcement learning techniques to validate safety and robustness of VLA models in dynamic environments.
+We have built a prototype system that integrates cloud services with edge devices, which can run large VLA models, such as OpenVLA, on the cloud while performing inference and control on local devices. The prototype is expected to be released around **early summer 2026** (March-June).
+
+### Information
+This is an academic project initiated and led by me, starting from Sept. 2025.
+
+### Reference(s): 
+NOT YET AVAILABLE
+
 
 ## DRL-MPC
 {: .project-title }

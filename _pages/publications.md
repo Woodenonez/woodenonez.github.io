@@ -39,7 +39,7 @@ title: "Publications"
 ---
 
 (Others)
-- *Collision-Free Navigation of Mobile Robots via Quadtree-Based Model Predictive Control*, O. A. S. Ali, S. Koutsoftas, **Z. Zhang**, K. Åkesson, and E. Dean, IEEE SICE International Symposium on System Integration (SII), pp. X-X, 2025. <br>
+- *Collision-Free Navigation of Mobile Robots via Quadtree-Based Model Predictive Control*, O. A. S. Ali, S. Koutsoftas, **Z. Zhang**, K. Åkesson, and E. Dean, IEEE SICE International Symposium on System Integration (SII), pp. X-X, 2026. <br>
 <span style="color:rgb(47, 78, 99); font-size: 14px;">(Master student project)</span>
 <br>
 <span style="font-size: 16px;">
@@ -48,8 +48,15 @@ title: "Publications"
 [Presentation Video](https://youtu.be/dkbtmQYqKiY)
 </span>
 
-- *Combining High Level Scheduling and Low Level Control to Manage Fleets of Mobile Robots*, S. F. Roselli, **Z. Zhang**, and K. Åkesson, IEEE SICE International Symposium on System Integration (SII), pp. X-X, 2025. <br>
-<span style="color:rgb(47, 78, 99); font-size: 14px;">(Master student project)</span>
+- *Rewarding Change Beyond State: Directional VLM Rewards for Sample-Efficient Robot Reinforcement Learning*, L. Lundgren\*, W. Lu\*, Z. Liang, **Z. Zhang**, K. Ramirez-Amaro, and E. Dean, IEEE SICE International Symposium on System Integration (SII), pp. X-X, 2026. <br>
+<span style="color:rgb(47, 78, 99); font-size: 14px;">(\*Equal contribution, Master student project)</span>
+<br>
+<span style="font-size: 16px;">
+[Paper (arXiv) Not Yet](https://arxiv.org/),
+[Paper (IEEE) Not Yet](https://ieeexplore.ieee.org/document/)
+</span>
+
+- *Combining High Level Scheduling and Low Level Control to Manage Fleets of Mobile Robots*, S. F. Roselli, **Z. Zhang**, and K. Åkesson, IEEE SICE International Symposium on System Integration (SII), pp. X-X, 2026. <br>
 <br>
 <span style="font-size: 16px;">
 [Paper (arXiv)](https://arxiv.org/abs/2510.23129),

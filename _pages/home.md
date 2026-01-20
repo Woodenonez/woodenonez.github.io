@@ -8,7 +8,7 @@ title: " "
 
 ## Greetings!
 
-Welcome to my personal page. I finished my PhD at the [Chalmers University of Technology](https://www.chalmers.se/en/), and I'm currently working on cloud robotics with Prof. Ahmed Ali-Eldin Hassan. My research interests are in the area of robotics and machine learning, particularly in the development of integrated algorithms for predictive dynamic obstacle avoidance based on multimodal motion prediction. If you are interested in my work, feel free to contact me or raise an issue on the corresponding GitHub repository.
+Welcome to my personal page. I finished my PhD at the [Chalmers University of Technology](https://www.chalmers.se/en/), and I'm currently working on cloud robotics with Prof. Ahmed Ali-Eldin Hassan. My research interests are in the area of robotics and machine learning, particularly in the development of integrated algorithms for predictive dynamic obstacle avoidance based on multimodal motion prediction. Feel free to contact me or raise an issue on the corresponding GitHub repository.
 
 <!-- The latest official update of the application related to my research project: [Volvo Group](https://www.youtube.com/watch?v=DA7lKiCdkCc&t=132s&ab_channel=VolvoGroup) -->
 
