@@ -33,3 +33,6 @@ I am currently working on cloud robotics and learning-based motion planning. At 
 
 ## Additional Experience
 - [09/2025-10/2025] Associate Editor for 2026 IEEE/SICE International Symposium on System Integration (SII)
+
+
+[Read papers](https://woodenonez.github.io/note-readpaper/)
