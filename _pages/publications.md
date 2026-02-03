@@ -57,7 +57,6 @@ title: "Publications"
 </span>
 
 - *Combining High Level Scheduling and Low Level Control to Manage Fleets of Mobile Robots*, S. F. Roselli, **Z. Zhang**, and K. Åkesson, IEEE SICE International Symposium on System Integration (SII), pp. X-X, 2026. <br>
-<br>
 <span style="font-size: 16px;">
 [Paper (arXiv)](https://arxiv.org/abs/2510.23129),
 [Paper (IEEE) Not Yet](https://ieeexplore.ieee.org/document/)
