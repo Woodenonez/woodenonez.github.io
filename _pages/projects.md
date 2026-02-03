@@ -15,11 +15,11 @@ toc_sticky: true
 
 Cloud Robotics - VLA (ongoing)
 ### Introduction
-I'm leading this new project on cloud robotics, which aims to develop both cloud-based and edge-based solutions for deploying and managing Vision-Language-Action (VLA) models. Currectly, as a team of a postdoc researcher (me), several PhD students, and master students, we are working on the following tasks:
+I'm leading this new project on cloud robotics, which aims to develop both cloud-based and edge-based solutions for deploying and managing Vision-Language-Action (VLA) models. Currently, as a team of a postdoc researcher (me), several PhD students, and master students, we are working on the following tasks:
 - Designing a cloud-edge architecture / pipeline for VLA models in robotics applications.
 - Developing efficient model compression and adaptation techniques to deploy large VLA models on edge devices with limited resources.
 - Implementing real-time data processing and decision-making pipelines that leverage cloud computing power while minimizing latency.
-- Using reinforcement learning techniques to validate safety and robustness of VLA models in dynamic environments.
+- Using reinforcement learning techniques to validate the safety and robustness of VLA models in dynamic environments.
 
 We have built a prototype system that integrates cloud services with edge devices, which can run large VLA models, such as OpenVLA, on the cloud while performing inference and control on local devices. The prototype is expected to be released around **early summer 2026** (March-June).
 
@@ -39,7 +39,7 @@ This side project proposes an efficient approach to real-time collision-free nav
 
 For multi-agent cases, decentralized training with decentralized execution (DTDE) is used for DRL agents, and distributed MPC is conducted for flexibility and scalability.
 ### Information
-This is a side project initiated by me and extended to a larger reseacher project involving more new reseachers.
+This is a side project initiated by me and later expanded into a larger research project involving additional researchers.
 
 ### Reference(s): 
 1. [IEEE CASE](https://ieeexplore.ieee.org/document/10260515)
@@ -61,7 +61,7 @@ This is a five-year research project as the main topic of my PhD study. This pro
 
 <!-- ### Review activities
 
-SII (AE, 2026), IROS (2025), Mechatronics (2025), RA-L(2024), T-HRI(2024), ESWA (2024), ECC (2024), CASE (2024, 2023), UR (2022).
+RSS (2026), SII (AE, 2026), IROS (2025), Mechatronics (2025), RA-L(2024), T-HRI(2024), ESWA (2024), ECC (2024), CASE (2024, 2023), UR (2022).
 
 ```
 Template for review:
