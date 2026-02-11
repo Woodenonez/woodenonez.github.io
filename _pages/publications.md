@@ -39,6 +39,14 @@ title: "Publications"
 ---
 
 (Others)
+- *Proactive Local-Minima-Free Robot Navigation: Blending Motion Prediction with Safe Control*, X. Yifan\*, **Z. Zhang**\*, K. Åkesson, F. Nadia, IEEE Robotics and Automation Letters (RA-L), vol. X, no. X, pp. X - X, X 2026. <br>
+<span style="color:rgb(47, 78, 99); font-size: 14px;">(\*Equal contribution)</span>
+<br>
+<span style="font-size: 16px;">
+[Paper (arXiv)](https://arxiv.org/abs/2601.10233),
+[Paper (IEEE)](https://ieeexplore.ieee.org/)
+</span>
+
 - *Collision-Free Navigation of Mobile Robots via Quadtree-Based Model Predictive Control*, O. A. S. Ali, S. Koutsoftas, **Z. Zhang**, K. Åkesson, and E. Dean, IEEE SICE International Symposium on System Integration (SII), pp. X-X, 2026. <br>
 <span style="color:rgb(47, 78, 99); font-size: 14px;">(Master student project)</span>
 <br>
