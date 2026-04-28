@@ -18,7 +18,7 @@ I sucessfully defended my thesis, [**"Future-Oriented Navigation for Autonomous 
 
 <div class="compact-post">
   <div class="compact-post-image">
-    <img src="\assets\images\C2025XXX1_cover.png" alt="CXXXXXXXX">  
+    <img src="\assets\images\C20260227_cover.png" alt="C20260227">  
   </div>
   <div class="compact-post-details">
     <h3 class="compact-post-title">Dynamic Nonconvex Obstacle Avoidance: One-shot Motion Prediction (EBM) and Control (On-Manifold CBF)</h3>

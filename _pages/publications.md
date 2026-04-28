@@ -39,35 +39,34 @@ title: "Publications"
 ---
 
 (Others)
-- *Proactive Local-Minima-Free Robot Navigation: Blending Motion Prediction with Safe Control*, X. Yifan\*, **Z. Zhang**\*, K. Åkesson, F. Nadia, IEEE Robotics and Automation Letters (RA-L), vol. X, no. X, pp. X - X, X 2026. <br>
+- *Proactive Local-Minima-Free Robot Navigation: Blending Motion Prediction with Safe Control*, X. Yifan\*, **Z. Zhang**\*, K. Åkesson, F. Nadia, IEEE Robotics and Automation Letters (RA-L), vol. 11, no. 4, pp. 5096 - 5102, February 2026. <br>
 <span style="color:rgb(47, 78, 99); font-size: 14px;">(\*Equal contribution)</span>
 <br>
 <span style="font-size: 16px;">
 [Paper (arXiv)](https://arxiv.org/abs/2601.10233),
-[Paper (IEEE)](https://ieeexplore.ieee.org/)
+[Paper (IEEE)](https://ieeexplore.ieee.org/document/11417391)
 </span>
 
-- *Collision-Free Navigation of Mobile Robots via Quadtree-Based Model Predictive Control*, O. A. S. Ali, S. Koutsoftas, **Z. Zhang**, K. Åkesson, and E. Dean, IEEE SICE International Symposium on System Integration (SII), pp. X-X, 2026. <br>
+- *Collision-Free Navigation of Mobile Robots via Quadtree-Based Model Predictive Control*, O. A. S. Ali, S. Koutsoftas, **Z. Zhang**, K. Åkesson, and E. Dean, IEEE SICE International Symposium on System Integration (SII), pp. 553 - 558, 2026. <br>
 <span style="color:rgb(47, 78, 99); font-size: 14px;">(Master student project)</span>
 <br>
 <span style="font-size: 16px;">
 [Paper (arXiv)](https://arxiv.org/abs/2511.13188),
-[Paper (IEEE) Not Yet](https://ieeexplore.ieee.org/document/),
+[Paper (IEEE)](https://ieeexplore.ieee.org/document/11404509),
 [Presentation Video](https://youtu.be/dkbtmQYqKiY)
 </span>
 
-- *Rewarding Change Beyond State: Directional VLM Rewards for Sample-Efficient Robot Reinforcement Learning*, L. Lundgren\*, W. Lu\*, Z. Liang, **Z. Zhang**, K. Ramirez-Amaro, and E. Dean, IEEE SICE International Symposium on System Integration (SII), pp. X-X, 2026. <br>
+- *Rewarding Change Beyond State: Directional VLM Rewards for Sample-Efficient Robot Reinforcement Learning*, L. Lundgren\*, W. Lu\*, Z. Liang, **Z. Zhang**, K. Ramirez-Amaro, and E. Dean, IEEE SICE International Symposium on System Integration (SII), pp. 722 - 728, 2026. <br>
 <span style="color:rgb(47, 78, 99); font-size: 14px;">(\*Equal contribution, Master student project)</span>
 <br>
 <span style="font-size: 16px;">
-[Paper (arXiv) Not Yet](https://arxiv.org/),
-[Paper (IEEE) Not Yet](https://ieeexplore.ieee.org/document/)
+[Paper (IEEE)](https://ieeexplore.ieee.org/document/11404492)
 </span>
 
-- *Combining High Level Scheduling and Low Level Control to Manage Fleets of Mobile Robots*, S. F. Roselli, **Z. Zhang**, and K. Åkesson, IEEE SICE International Symposium on System Integration (SII), pp. X-X, 2026. <br>
+- *Combining High Level Scheduling and Low Level Control to Manage Fleets of Mobile Robots*, S. F. Roselli, **Z. Zhang**, and K. Åkesson, IEEE SICE International Symposium on System Integration (SII), pp. 1143 - 1148, 2026. <br>
 <span style="font-size: 16px;">
 [Paper (arXiv)](https://arxiv.org/abs/2510.23129),
-[Paper (IEEE) Not Yet](https://ieeexplore.ieee.org/document/)
+[Paper (IEEE)](https://ieeexplore.ieee.org/document/11404490)
 </span>
 
 - *Gradient Field-Based Dynamic Window Approach for Collision Avoidance in Complex Environments*, **Z. Zhang**, Y. Xue, N. Figueroa, K. Åkesson, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 19669-19674, 2025.

@@ -13,7 +13,8 @@ I am currently working on cloud robotics and learning-based motion planning. At 
 
 ## Professional Experience
 
-- [07/2025-Ongoing] **Chalmers University of Technology** <small>(GBG, SE)</small> <br> 
+- [06/2026-Ongoing] **NOT YET** <small>(?, ?)</small>
+- [07/2025-06/2026] **Chalmers University of Technology** <small>(GBG, SE)</small> <br> 
   Postdoc researcher in Computer and Network Systems Group | Computer Science and Engineering <br> 
   ★ Cloud robotics.
 - [09/2024-11/2024] **University of Pennsylvania** <small>(PA, USA)</small> <br> 
