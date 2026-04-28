@@ -120,12 +120,12 @@ author:
   location         : "GOT, Sweden"
   # email            : "zhze.zhang@gmail.com"
   links:
-    - label: "Email (work)"
-      icon: "fas fa-fw fa-envelope-square" # https://fontawesome.com/v6/search
-      url: "mailto:zhze@chalmers.com"
-    - label: "Email (private)"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:zhze.zhang@gmail.com"
+    # - label: "Email (work)"
+    #   icon: "fas fa-fw fa-envelope-square" # https://fontawesome.com/v6/search
+    #   url: "mailto:zhze@chalmers.com"
+    # - label: "Email (private)"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:zhze.zhang@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Woodenonez"
