@@ -23,7 +23,7 @@ I sucessfully defended my thesis, [**"Future-Oriented Navigation for Autonomous 
   <div class="compact-post-details">
     <h3 class="compact-post-title">Dynamic Nonconvex Obstacle Avoidance: One-shot Motion Prediction (EBM) and Control (On-Manifold CBF)</h3>
     <p class="compact-authors">Yifan Xue*, <b class="compact-myname"><i>Ze Zhang*</i></b>, et al. (*equal contribution)</p>
-    <p><i>RA-L 2026 (with GRASP lab, Univerisity of Pennsylvania)</i> 
+    <p><i><a href="https://ieeexplore.ieee.org/document/11417391">RA-L 2026</a> (with GRASP lab, Univerisity of Pennsylvania)</i>
       <a href="https://github.com/yifanxueseas/mmp_mcbf_control/">[Code]</a> 
       <a href="https://arxiv.org/abs/2601.10233">[Paper (arXiv)]</a>
       <a href="https://youtu.be/heagLEwfcVc">[Video-Demo]</a>
@@ -40,7 +40,7 @@ I sucessfully defended my thesis, [**"Future-Oriented Navigation for Autonomous 
   <div class="compact-post-details">
     <h3 class="compact-post-title">Complex Obstacle Avoidance and Fleet Collision Avoidance: Sampling-based Trajectory Planning (DWA) Inspried by Gradient Field (GPDF)</h3>
     <p class="compact-authors"><b class="compact-myname"><i>Ze Zhang</i></b>, Yifan Xue, et al.</p>
-    <p><i>IROS 2025 - Hangzhou, CN</i> 
+    <p><i><a href="https://ieeexplore.ieee.org/document/11246091">IROS 2025</a> - Hangzhou, CN</i> 
       <a href="https://github.com/Woodenonez/CollisionAvoidance-GPDF-DWA/">[Code]</a> 
       <a href="https://arxiv.org/abs/2504.03260">[Paper (arXiv)]</a>
       <a href="https://youtu.be/Et4C5oGHlF0">[Video-Demo]</a>

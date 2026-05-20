@@ -80,6 +80,7 @@ title: "Publications"
 <span style="font-size: 16px;">
 [Paper (PDF)](\assets\papers\RAL2025_Ze_EBM_MPC_ROS.pdf),
 [Paper (IEEE)](https://ieeexplore.ieee.org/document/11021381)
+[Presentation Video](https://youtu.be/Ui9oAwamLJM)
 </span>
 
 ---
