@@ -12,7 +12,7 @@ Welcome to my personal page. I finished my PhD at the [Chalmers University of Te
 
 <!-- The latest official update of the application related to my research project: [Volvo Group](https://www.youtube.com/watch?v=DA7lKiCdkCc&t=132s&ab_channel=VolvoGroup) -->
 
-I sucessfully defended my thesis, [**"Future-Oriented Navigation for Autonomous Mobile Robots"**](https://research.chalmers.se/en/publication/545958), on **May 15, 2025**.
+I successfully defended my thesis, [**"Future-Oriented Navigation for Autonomous Mobile Robots"**](https://research.chalmers.se/en/publication/545958), on **May 15, 2025**.
 
 ### Active Work
 
