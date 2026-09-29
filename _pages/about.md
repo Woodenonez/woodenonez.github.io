@@ -13,7 +13,9 @@ I am currently working on cloud robotics and learning-based motion planning. At 
 
 ## Professional Experience
 
-- [06/2026-Ongoing] **NOT YET** <small>(?, ?)</small>
+- [06/2026-Ongoing] **Agile Robots** <small>(MUN, GE)</small> <br>
+  Senior AI (Robotics) Engineer in the AI Solution FMR Team <br>
+  ★ VLA models.
 - [07/2025-06/2026] **Chalmers University of Technology** <small>(GBG, SE)</small> <br> 
   Postdoc researcher in Computer and Network Systems Group | Computer Science and Engineering <br> 
   ★ Cloud robotics.
@@ -33,7 +35,7 @@ I am currently working on cloud robotics and learning-based motion planning. At 
   B.Sc. in Automation | Automation Engineering
 
 ## Additional Experience
+- [09/2026-10/2026] Associate Editor for 2027 IEEE/SICE International Symposium on System Integration (SII)
 - [09/2025-10/2025] Associate Editor for 2026 IEEE/SICE International Symposium on System Integration (SII)
 
 
-[Read papers](https://woodenonez.github.io/note-readpaper/) | [Slip Test](https://woodenonez.github.io/slip/) | [FreeTyping Test](https://woodenonez.github.io/freetyping/)
