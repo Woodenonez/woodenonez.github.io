@@ -39,6 +39,12 @@ title: "Publications"
 ---
 
 (Others)
+- *Infrastructure-based Autonomous Mobile Robots for Internal Logistics — Challenges and Future Perspectives*, E. Brorsson, K. Ceder, **Z. Zhang**, S. F. Roselli, E. Erős, M. Dahl, B. Alenljung, J. Lindblom, T. Bui, E. Dean, L. Svensson, K. Bengtsson, P.-L. Götvall, and K. Åkesson, Robotics and Autonomous Systems (RAS), vol. 207, article 105798, January 2027. <br>
+<span style="font-size: 16px;">
+[Paper (arXiv)](https://arxiv.org/abs/2512.15215),
+[Journal DOI](https://doi.org/10.1016/j.robot.2026.105798)
+</span>
+
 - *Proactive Local-Minima-Free Robot Navigation: Blending Motion Prediction with Safe Control*, X. Yifan\*, **Z. Zhang**\*, K. Åkesson, F. Nadia, IEEE Robotics and Automation Letters (RA-L), vol. 11, no. 4, pp. 5096 - 5102, February 2026. <br>
 <span style="color:rgb(47, 78, 99); font-size: 14px;">(\*Equal contribution)</span>
 <br>
