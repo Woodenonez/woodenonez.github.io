@@ -69,6 +69,13 @@ title: "Publications"
 [Paper (IEEE)](https://ieeexplore.ieee.org/document/11404490)
 </span>
 
+- *Infrastructure-based Autonomous Mobile Robots for Internal Logistics — Challenges and Future Perspectives*, E. Brorsson, K. Ceder, **Z. Zhang**, S. F. Roselli, E. Erős, M. Dahl, B. Alenljung, J. Lindblom, T. Bui, E. Dean, L. Svensson, K. Bengtsson, P.-L. Götvall, and K. Åkesson, arXiv preprint, arXiv:2512.15215, 2025. <br>
+<span style="font-size: 16px;">
+[Paper (arXiv)](https://arxiv.org/abs/2512.15215),
+[arXiv DOI](https://doi.org/10.48550/arXiv.2512.15215),
+[ScienceDirect record (relationship unconfirmed)](https://www.sciencedirect.com/science/article/pii/S0921889026004707)
+</span>
+
 - *Gradient Field-Based Dynamic Window Approach for Collision Avoidance in Complex Environments*, **Z. Zhang**, Y. Xue, N. Figueroa, K. Åkesson, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 19669-19674, 2025.
 <br>
 <span style="font-size: 16px;">
