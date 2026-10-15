@@ -39,6 +39,12 @@ title: "Publications"
 ---
 
 (Others)
+- *Infrastructure-based Autonomous Mobile Robots for Internal Logistics — Challenges and Future Perspectives*, E. Brorsson, K. Ceder, **Z. Zhang**, S. F. Roselli, E. Erős, M. Dahl, B. Alenljung, J. Lindblom, T. Bui, E. Dean, L. Svensson, K. Bengtsson, P.-L. Götvall, and K. Åkesson, Robotics and Autonomous Systems (RAS), vol. 207, article 105798, January 2027. <br>
+<span style="font-size: 16px;">
+[Paper (arXiv)](https://arxiv.org/abs/2512.15215),
+[Journal DOI](https://doi.org/10.1016/j.robot.2026.105798)
+</span>
+
 - *Proactive Local-Minima-Free Robot Navigation: Blending Motion Prediction with Safe Control*, X. Yifan\*, **Z. Zhang**\*, K. Åkesson, F. Nadia, IEEE Robotics and Automation Letters (RA-L), vol. 11, no. 4, pp. 5096 - 5102, February 2026. <br>
 <span style="color:rgb(47, 78, 99); font-size: 14px;">(\*Equal contribution)</span>
 <br>
@@ -67,13 +73,6 @@ title: "Publications"
 <span style="font-size: 16px;">
 [Paper (arXiv)](https://arxiv.org/abs/2510.23129),
 [Paper (IEEE)](https://ieeexplore.ieee.org/document/11404490)
-</span>
-
-- *Infrastructure-based Autonomous Mobile Robots for Internal Logistics — Challenges and Future Perspectives*, E. Brorsson, K. Ceder, **Z. Zhang**, S. F. Roselli, E. Erős, M. Dahl, B. Alenljung, J. Lindblom, T. Bui, E. Dean, L. Svensson, K. Bengtsson, P.-L. Götvall, and K. Åkesson, arXiv preprint, arXiv:2512.15215, 2025. <br>
-<span style="font-size: 16px;">
-[Paper (arXiv)](https://arxiv.org/abs/2512.15215),
-[arXiv DOI](https://doi.org/10.48550/arXiv.2512.15215),
-[ScienceDirect record (relationship unconfirmed)](https://www.sciencedirect.com/science/article/pii/S0921889026004707)
 </span>
 
 - *Gradient Field-Based Dynamic Window Approach for Collision Avoidance in Complex Environments*, **Z. Zhang**, Y. Xue, N. Figueroa, K. Åkesson, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 19669-19674, 2025.
